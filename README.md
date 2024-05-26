@@ -36,6 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrzngr&" alt="nrzngr" /></p>
 
-[![nrzngr's GitHub | Stats](https://stats.quine.sh/nrzngr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nrzngr)
-
-[![nrzngr's GitHub | Languages Over Time](https://stats.quine.sh/nrzngr/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nrzngr)
+[![nrzngr's GitHub | Stats](https://stats.quine.sh/nrzngr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nrzngr)[![nrzngr's GitHub | Languages Over Time](https://stats.quine.sh/nrzngr/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nrzngr)
