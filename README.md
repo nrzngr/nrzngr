@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ridzkynugraha08@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-ridzki-nugraha/](https://www.linkedin.com/in/muhammad-ridzki-nugraha/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/nrzngr/](https://www.linkedin.com/in/nrzngr/)
 
 - ⚡ Fun fact **I love anime!**
 
